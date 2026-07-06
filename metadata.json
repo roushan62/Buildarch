@@ -1,0 +1,6 @@
+{
+  "name": "BuildArch Platform",
+  "description": "Enterprise Construction & Interior Management Platform with intelligent estimators, BOQs, GST invoices, and site reports.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
